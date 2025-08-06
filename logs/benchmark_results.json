@@ -1,0 +1,29 @@
+{
+  "timestamp": 1754484828.767927,
+  "results": [
+    {
+      "backend_name": "InMemory",
+      "add_rule_time": 1.0967254638671875e-05,
+      "process_message_time": 0.09281086921691895,
+      "memory_usage": 0.15625,
+      "cpu_usage": 99.22005986688143,
+      "messages_per_second": 10774.600091965362
+    },
+    {
+      "backend_name": "SQLite",
+      "add_rule_time": 5.3882598876953125e-05,
+      "process_message_time": 0.07015109062194824,
+      "memory_usage": 0.015625,
+      "cpu_usage": 99.67004558318895,
+      "messages_per_second": 14254.945876595239
+    },
+    {
+      "backend_name": "Redis",
+      "add_rule_time": 9.059906005859375e-06,
+      "process_message_time": 0.06328082084655762,
+      "memory_usage": 0.046875,
+      "cpu_usage": 99.33053199865272,
+      "messages_per_second": 15802.576303881788
+    }
+  ]
+}
