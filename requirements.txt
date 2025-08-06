@@ -1,0 +1,15 @@
+# Core dependencies for IoT Rules Engine
+# System monitoring and performance measurement
+psutil>=5.9.0
+
+# Data visualization for benchmark results
+matplotlib>=3.6.0
+numpy>=1.21.0
+
+# Optional Redis support (for Redis storage backend)
+redis>=4.3.0
+
+# Development and testing dependencies
+# (uncomment if needed for development)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
